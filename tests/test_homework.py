@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-def test_01():
+def test_01() -> None:
 
     # Test if the homework script runs without errors
     try:
